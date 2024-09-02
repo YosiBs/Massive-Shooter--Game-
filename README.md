@@ -10,7 +10,13 @@
   </p>
 <h2>Overview</h2>
 <p>This project is a 2D game created using GameMaker Studio. The game features a player character that can move, jump, shoot bullets, and interact with enemies. The game also includes a pause functionality with a popup that displays the game instructions.</p>
+<img src="https://github.com/user-attachments/assets/7d5e9754-0303-4cd2-84fc-c6aa1fbaa723" alt=pic5 width="650" >
 
+
+<p>GamePlay Video:</p>
+<a href="https://youtu.be/267JwQJY2Lc"><img src="https://github.com/user-attachments/assets/b14bcdf6-0400-43fe-8333-8be586bf82a6" alt=pic5 width="40" ></a>
+
+<hr/>
 <h2><img src="https://github.com/YosiBs/Pokemon-Escape-Mobile-Game/assets/105666011/008a508e-5484-46ba-be36-ac359d603f01" alt=pic5 width="40" height="40"> Features</h2>
 <ul>
   <li><strong>Player Movement</strong>: The player can move left, right, and jump using the keyboard.</li>
