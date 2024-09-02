@@ -30,7 +30,7 @@
   </li>
 </ol>
 <p>Or Just simply Download the Exe file (for Windows) </p>
- <a href=""><img alt="download exe file" src="https://github.com/user-attachments/assets/d37c1410-3298-4663-9e5c-3fdb43293be4" width="40" /></a>
+ <a href="https://github.com/YosiBs/Massive-Shooter--Game-/blob/main/Masive%20Shooter%20Executable.zip"><img alt="download exe file" src="https://github.com/user-attachments/assets/d37c1410-3298-4663-9e5c-3fdb43293be4" width="40" /></a>
 
 
 <h2><img src="https://github.com/YosiBs/Gotcha-App/assets/105666011/0c7e3507-e910-4ac4-b5e3-8c5d484fa682" alt=pic5 width="40" height="40"> Controls</h2>
@@ -39,6 +39,7 @@
   <li><strong>S</strong>: Shoot a bullet.</li>
   <li><strong>A</strong>: Auto Shoot bullets.</li>
   <li><strong>W</strong>: Shoot Strong bullet (cost 100 points).</li>
+  <li><strong>P</strong>: Pause/Unpause The Game.</li>
 </ul>
 
 <h2><img src="https://github.com/user-attachments/assets/e3a6eca9-c3d9-428b-8750-a213a75ff761" alt=pic5 width="40" height="40"> How to Play</h2>
